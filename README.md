@@ -1,6 +1,5 @@
 ---
 title: Course Project, Getting & Cleaning Data
-author: "axw"
 date: "21 June, 2015"
 output: 
       html_document:
